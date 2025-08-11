@@ -12,7 +12,7 @@ const About = () => {
             <div className="relative">
               <div className="w-64 h-64 mx-auto overflow-hidden border-4 rounded-full shadow-lg border-primary shadow-primary/30">
                 <img 
-                  src="../public/assets/images/android-chrome-192x192.png" 
+                  src="/public/assets/images/android-chrome-192x192.png" 
                   alt="Profile"
                   className="object-cover w-full h-full"
                 />
